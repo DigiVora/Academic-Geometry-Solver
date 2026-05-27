@@ -43,7 +43,7 @@ Aplikasi ini mendukung perhitungan untuk berbagai bangun datar:
 ## 🚀 Cara Menjalankan
 1. Pastikan Anda telah menginstal **JDK (Java Development Kit)**.
 2. Clone repositori ini:
-   `git clone https://github.com/DigiVora/GeoMatic-Java.git`
+   `git clone https://github.com/DigiVora/Academic-Geometry-Solver.git`
 3. Buka proyek di NetBeans IDE atau IDE favorit Anda.
 4. Jalankan kelas `Beranda.java` untuk memulai aplikasi! 🌟
 
